@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS "china";
+CREATE DATABASE "china";
