@@ -1,6 +1,7 @@
-import React from 'react';
+import React from "react";
 import Title from "./title/Title.js";
-import './App.css';
+import Footer from "./footer/footer.js";
+import "./App.css";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <img id = "China" src = "images/chinamap.jpg" alt = "China" width = "100%" height = "100%"/>
   
       </header>
+      <Footer />
     </div>
   );
 }
