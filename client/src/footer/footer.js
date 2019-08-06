@@ -15,19 +15,21 @@ const FooterPage = () => {
             </p>
           </MDBCol>
           <MDBCol md="6">
-            <h5 className="title">Links</h5>
+            <h5 className="title">More information about China</h5>
             <ul>
               <li className="list-unstyled">
-                <a href="#!">Link 1</a>
+                <a href="https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html">The World Factbook</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Link 2</a>
+                <a href="https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/china-travel-advisory.html">
+                  US Department of State- Travel to China Advisory
+                </a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Link 3</a>
+                <a href="http://www.chinauncensored.tv/">A comedic site about China</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Link 4</a>
+                <a href="https://www.travelchinaguide.com/">Another good site about traveling to China</a>
               </li>
             </ul>
           </MDBCol>
