@@ -15,23 +15,23 @@ function Navbar() {
           <Dropdown.Item>
             <Link to="/history">History of China</Link>
           </Dropdown.Item>
-          <Dropdown.Item href="#/chinese-culture">
-            Demographics and Culture
+          <Dropdown.Item>
+            <Link to="/culture">Demographics and Culture</Link>
           </Dropdown.Item>
-          <Dropdown.Item href="#/economy-of-china">
-            Economy
+          <Dropdown.Item>
+            <Link to="/economy">Economy</Link>
           </Dropdown.Item>
-          <Dropdown.Item href="#/technological-aspects-china">
-            Science and Technology
+          <Dropdown.Item>
+            <Link to="/technology">Science and Technology</Link>
           </Dropdown.Item>
-          <Dropdown.Item href="#/politics-and-government">
-            Politics
+          <Dropdown.Item>
+            <Link to="/politics">Politics</Link>
           </Dropdown.Item>
-          <Dropdown.Item href="#/geography-of-china">
-            Geography
+          <Dropdown.Item>
+            <Link to="/geography">Geography</Link>
           </Dropdown.Item>
-          <Dropdown.Item href="#/travel-to-china">
-            Planning a trip?
+          <Dropdown.Item>
+            <Link to="/travel">Planning a Trip?</Link>
           </Dropdown.Item>
         </Dropdown.Menu>
       </Dropdown>

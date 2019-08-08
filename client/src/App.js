@@ -17,9 +17,9 @@ function App() {
       <Route exact path="/history" component={ChinaHistory}/>
       <Route exact path="/culture" component={ChineseCulture}/>
       <Route exact path="/economy" component={Economy}/>
-      <Route exact path="/geography" component={Geography}/>
-      <Route exact path="/politics" component={Politics}/>
       <Route exact path="/technology" component={Technology}/>
+      <Route exact path="/politics" component={Politics}/>
+      <Route exact path="/geography" component={Geography}/>
       <Route exact path="/travel" component={TravelToChina}/>
     
     </Router>   
