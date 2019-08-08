@@ -1,19 +1,16 @@
 import React from "react";
-import Title from "./title/Title.js";
-import Footer from "./footer/footer.js";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Main from "./pages/main";
 import "./App.css";
+import ChinaHistory from "./pages/ChinaHistory";
 
 function App() {
   return (
-    <div className="App">
-      <Title />
-      <header className="App-header">
-
-        <img id = "China" src = "images/chinamap.jpg" alt = "China" width = "100%" height = "100%"/>
-  
-      </header>
-      <Footer />
-    </div>
+    <Router>
+      <Route exact path="/" component={Main}/>
+      <Route exact path="/history" component={ChinaHistory}/>
+    
+    </Router>   
   );
 }
 
