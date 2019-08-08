@@ -11,7 +11,7 @@ const FooterPage = () => {
           <MDBCol md="6">
             <h5 className="title">Footer Content</h5>
             <p>
-              This is the footer. 
+              This application is for those who are interested in visiting China or learning more about the country. 
             </p>
           </MDBCol>
           <MDBCol md="6">
