@@ -56,16 +56,19 @@ export default class ChinaHistory extends Component {
 
         <h2>Tang Dynasty</h2>
         <ul>
-          <li>Lasted from 206 BC to 220 AD.</li>
-          <li>Considered a golden age in Chinese history.</li>
-          <li>China's majority ethnic group is known as the Han Chinese. Chinese script is referred to as Han Characters.</li>
+          <li>Lasted from 618 AD to 907 AD.</li>
+          <li>Confucianism returns to the Chinese government.</li>
+          <li>Notable inventions include the clock and gunpowder.</li>
+          <li>Some noble Chinese families started binding their daughter's feet.</li>
         </ul>
 
         <h2>Song Dynasty</h2>
         <ul>
-          <li>Lasted from 206 BC to 220 AD.</li>
-          <li>Considered a golden age in Chinese history.</li>
-          <li>China's majority ethnic group is known as the Han Chinese. Chinese script is referred to as Han Characters.</li>
+          <li>Lasted from 960 AD to 1279 AD.</li>
+          <li>The earliest paper money was introduced.</li>
+          <li>The first standing navy was established.</li>
+          <li>Other technological advancements include movable type printing and the compass</li>
+          <li>Mathematical advancements include the Jia Xian triangle used for binomial coefficients, the intrduction of 0 by Qin Jiushao.</li>
         </ul>
       </div>
     );
