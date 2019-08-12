@@ -38,7 +38,7 @@ export default class ChineseCulture extends Component {
 
         <h2>Language in China</h2>
         <img
-          id="Religion in China"
+          id="Language in China"
           src="../images/ChineseLanguage.jpg"
           alt="Ethnic Groups"
           width="90%"
@@ -50,6 +50,18 @@ export default class ChineseCulture extends Component {
           <li>All dialects of Chinese are tonal and analytic.</li>
           <li>Standard Chinese, based on the Beijing dialect of Mandarin (Putonghua), is the official language of China and Taiwan.</li>
           <li>In addition, it is one of the six official lanuages of the UN.</li>
+        </ul>
+
+        <h2>Food in China</h2>
+        <ul>
+          <li>Staple foods include rice, noodles and tofu.</li>
+          <li>Rice is one of the most popular foods in China and is used in many dishes.</li>
+          <li>Noodles are made from wheat flour, rice flour, or bean starch. They are served in soup or stir-fried with meat, eggs, or veggies.</li>
+          <li>Tofu is made from soy milk, water, and curdling agent. It contains little fat, and is high in protein, calcium, and iron.</li>
+          <li>Chinese eat many different kinds of meat like pork, beef, chicken.</li>
+          <li>Eggs are also widely consumed in China. Chinese people consume eggs from many different types of poultry including chicken, quails, pigeons, ducks, etc.</li>
+          <li>Veggies are fundamental to the Chinese cuisine. Common veggies eaten include onions, chinese eggplants, leafy vegetables, etc. </li>
+          <li>Other ingredients are used for seasoning including ginger, garlic, coriander, spring onions, etc.</li>
         </ul>
       </div>
     );
