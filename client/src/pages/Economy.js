@@ -32,7 +32,8 @@ export default class Economy extends Component {
 
         <p>
           China also faces a lot of environmental challenges. Some of the challenges include air pollution, soil erosion, and the fall of the 
-          water table. 
+          water table. Due to soil erosion, China loses a lot of arable land. In 2016, China ratified the Paris agreement, which will combat climate
+          change. In addition, China is committed to peaking emissions between 2025 and 2030. 
         </p>
       </div>
     );
