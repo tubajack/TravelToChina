@@ -53,6 +53,15 @@ export default class ChineseCulture extends Component {
         </ul>
 
         <h2>Food in China</h2>
+
+        <img
+          id="Chinese Cuisine"
+          src="../images/ChineseCuisine.jpg"
+          alt="Chinese Food"
+          width="90%"
+          height="90%"
+        /> 
+
         <ul>
           <li>Staple foods include rice, noodles and tofu.</li>
           <li>Rice is one of the most popular foods in China and is used in many dishes.</li>
