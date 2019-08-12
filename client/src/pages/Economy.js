@@ -26,7 +26,13 @@ export default class Economy extends Component {
             <li>Raising productivity growth rates through efficient allocation of capital and state support for innovation.</li>
           </ul>
           In order to control the population, China implemented a one-child policy in 1979, which was relaxed in 2016 to allow families
-          to have two children. 
+          to have two children. One of the consequences of this population control is that China is one of the most rapidly aging countries 
+          in the world. 
+        </p>
+
+        <p>
+          China also faces a lot of environmental challenges. Some of the challenges include air pollution, soil erosion, and the fall of the 
+          water table. 
         </p>
       </div>
     );
