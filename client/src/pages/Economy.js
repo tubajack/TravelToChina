@@ -17,6 +17,17 @@ export default class Economy extends Component {
           the "New Normal" which was implemented to avoid overheating. Although economic growth has slown down since 2010, the Chinese 
           Economy is still projected to grow 6.9% in 2019.  
         </p>
+
+        <p>
+          Some of the challenges that the Chinese economy has faced include: 
+          <ul>
+            <li>Reducing high dmestic savings rate</li>
+            <li>Higher-wage job opportunities for the middle class</li>
+            <li>Raising productivity growth rates through efficient allocation of capital and state support for innovation.</li>
+          </ul>
+          In order to control the population, China implemented a one-child policy in 1979, which was relaxed in 2016 to allow families
+          to have two children. 
+        </p>
       </div>
     );
   }
