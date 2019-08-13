@@ -38,6 +38,15 @@ export default class Technology extends Component {
           Some of these stretches were joined together by Qin Shi Huang (220-206 BC). The mst currenty well-known
           walls were built by the Ming Dynasty.   
         </p>
+
+        <p>
+          The four Chinese inventions which had the greatest impact are the compass, gunpowder, papermaking, and printing. 
+          Paper and printing were developed first, during the Tang Dynasty, although the earliest known records of printed 
+          cloth patterns date to around 220. The origin of the compass is difficult to pinpoint. The first undisputed magnetic
+          needles in Chinese literature appear in 1086. Gunpowder was recorded as a chemical reaction between saltpere, pine resin,
+          and charcoal (Book of the Master of the Preservation of Solidarity). Another record of gunpowder from 850 indicates that
+          gunpowder was a byproduct of Daoist efforts to develop an immortality elixir. 
+        </p>
       </div>
     );
   }
