@@ -30,6 +30,14 @@ export default class Technology extends Component {
           record the first planetary grouping. The Book of Silk was written in 400 BC, and it was 
           the first atlas of comets, listing 29 comets appearing over 300 years. 
         </p>
+
+        <p>
+          One of the most well-known technological feats in China is the Great Wall of China. 
+          The Great Wall of China was built to protect and consolidate territories of Chinese states
+          and empires against nomadic groups. As early as the 7th century BC, several walls were being built. 
+          Some of these stretches were joined together by Qin Shi Huang (220-206 BC). The mst currenty well-known
+          walls were built by the Ming Dynasty.   
+        </p>
       </div>
     );
   }
