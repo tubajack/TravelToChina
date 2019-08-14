@@ -6,7 +6,17 @@ export default class Geography extends Component {
     return (
       <div>
         <h1>Geography of China</h1>      
-        <Navbar />      
+        <Navbar /> 
+
+        <img
+          id="Ethnic Groups in China"
+          src="../images/MapOfChina.jpg"
+          alt="Map of China"
+          width="100%"
+          height="100%"
+        /> 
+
+
       </div>
     );
   }
