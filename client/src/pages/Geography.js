@@ -9,7 +9,7 @@ export default class Geography extends Component {
         <Navbar /> 
 
         <img
-          id="Ethnic Groups in China"
+          id="Map of China"
           src="../images/MapOfChina.jpg"
           alt="Map of China"
           width="100%"
@@ -41,7 +41,15 @@ export default class Geography extends Component {
         </p>
 
         <img
-          id="Ethnic Groups in China"
+          id="Geography of China"
+          src="../images/GeographyOfChina.jpg"
+          alt="Geography of China"
+          width="100%"
+          height="100%"
+        /> 
+
+        <img
+          id="Provinces of China"
           src="../images/ChinaProvinces.jpg"
           alt="China Provinces"
           width="100%"
