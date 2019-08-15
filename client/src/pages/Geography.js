@@ -9,7 +9,7 @@ export default class Geography extends Component {
         <Navbar /> 
 
         <img
-          id="Ethnic Groups in China"
+          id="Map of China"
           src="../images/MapOfChina.jpg"
           alt="Map of China"
           width="100%"
@@ -39,6 +39,22 @@ export default class Geography extends Component {
           River in Africa, and the Amazon River in South America. The Yellow River is another one of the longest rivers in China and in the world. 
           This river is yellow due to the amount of ailt it carries from the desert regions in the northwest. 
         </p>
+
+        <img
+          id="Geography of China"
+          src="../images/GeographyOfChina.jpg"
+          alt="Geography of China"
+          width="100%"
+          height="100%"
+        /> 
+
+        <img
+          id="Provinces of China"
+          src="../images/ChinaProvinces.jpg"
+          alt="China Provinces"
+          width="100%"
+          height="100%"
+        /> 
 
       </div>
     );
