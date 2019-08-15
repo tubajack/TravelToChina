@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 import Title from "./title/Title.js";
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
