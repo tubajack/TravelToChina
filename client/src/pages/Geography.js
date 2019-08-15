@@ -40,6 +40,14 @@ export default class Geography extends Component {
           This river is yellow due to the amount of ailt it carries from the desert regions in the northwest. 
         </p>
 
+        <img
+          id="Ethnic Groups in China"
+          src="../images/ChinaProvinces.jpg"
+          alt="China Provinces"
+          width="100%"
+          height="100%"
+        /> 
+
       </div>
     );
   }
