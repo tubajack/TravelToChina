@@ -1,23 +1,38 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { Dropdown } from "react-bootstrap";
 import "./navbar.css";
 
 function Navbar() {
   return (
-    <div className = "navbar">
+    <div className="navbar">
       <Dropdown>
         <Dropdown.Toggle variant="success" id="dropdown-basic">
           Dropdown Button
         </Dropdown.Toggle>
 
         <Dropdown.Menu>
-          <Dropdown.Item href="#/action-1">History of China</Dropdown.Item>
-          <Dropdown.Item href="#/action-2">Demographics and Culture</Dropdown.Item>
-          <Dropdown.Item href="#/action-3">Economy</Dropdown.Item>
-          <Dropdown.Item href="#/action-4">Science and Technology</Dropdown.Item>
-          <Dropdown.Item href="#/action-5">Politics</Dropdown.Item>
-          <Dropdown.Item href="#/action-6">Geography</Dropdown.Item>
-          <Dropdown.Item href="#/action-7">Planning a trip?</Dropdown.Item>
+          <Dropdown.Item>
+            <Link to="/history">History of China</Link>
+          </Dropdown.Item>
+          <Dropdown.Item>
+            <Link to="/culture">Demographics and Culture</Link>
+          </Dropdown.Item>
+          <Dropdown.Item>
+            <Link to="/economy">Economy</Link>
+          </Dropdown.Item>
+          <Dropdown.Item>
+            <Link to="/technology">Science and Technology</Link>
+          </Dropdown.Item>
+          <Dropdown.Item>
+            <Link to="/politics">Politics</Link>
+          </Dropdown.Item>
+          <Dropdown.Item>
+            <Link to="/geography">Geography</Link>
+          </Dropdown.Item>
+          <Dropdown.Item>
+            <Link to="/travel">Planning a Trip?</Link>
+          </Dropdown.Item>
         </Dropdown.Menu>
       </Dropdown>
     </div>
