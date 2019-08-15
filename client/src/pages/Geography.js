@@ -28,6 +28,12 @@ export default class Geography extends Component {
           Everest, the world's tallest mountain borders Nepal, and the second tallest mountain K2, borders Pakistan.  
         </p>
 
+        <p>
+          The Gobi desert is in the Northern part of China along the border with Mongolia. The desert is notable in history as part
+          of the Mongol Empire. This desert is a rain shadow desert formed by the Tibetan plateau blocking precipitation from the Indian
+          Ocean reaching the Gobi territory. 
+        </p>
+
       </div>
     );
   }
