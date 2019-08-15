@@ -22,6 +22,12 @@ export default class Geography extends Component {
           Bhutan, Nepal, Pakistan, Afghanistan, Tajikistan, Kyrgyzstan, Kazakstan, Mongolia, and Russia.
         </p>
 
+        <p>
+          About two-thirds of the country is mountainous. The mountain ranges typically run from east to west and from
+          northeast to southwest. Some of the world's tallest mountains divide China from South and Central Asia. Mount
+          Everest, the world's tallest mountain borders Nepal, and the second tallest mountain K2, borders Pakistan.  
+        </p>
+
       </div>
     );
   }
