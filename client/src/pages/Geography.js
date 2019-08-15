@@ -28,6 +28,18 @@ export default class Geography extends Component {
           Everest, the world's tallest mountain borders Nepal, and the second tallest mountain K2, borders Pakistan.  
         </p>
 
+        <p>
+          The Gobi desert is in the Northern part of China along the border with Mongolia. The desert is notable in history as part
+          of the Mongol Empire. This desert is a rain shadow desert formed by the Tibetan plateau blocking precipitation from the Indian
+          Ocean reaching the Gobi territory. 
+        </p>
+
+        <p>
+          China has many rivers and lakes. The Yangtze River is the longest river in Asia, and the third-longest in the world, behind the Nile 
+          River in Africa, and the Amazon River in South America. The Yellow River is another one of the longest rivers in China and in the world. 
+          This river is yellow due to the amount of ailt it carries from the desert regions in the northwest. 
+        </p>
+
       </div>
     );
   }
