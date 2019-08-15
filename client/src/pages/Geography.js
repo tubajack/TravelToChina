@@ -16,6 +16,11 @@ export default class Geography extends Component {
           height="100%"
         /> 
 
+        <p>
+          China is located in Southeast Asia along the coastline of the Pacific Ocean. China is the 3rd largest
+          country after Russia and Canada. China is bordered by 14 countries- Korea, Vietnam, Laos, Burma, India, 
+          Bhutan, Nepal, Pakistan, Afghanistan, Tajikistan, Kyrgyzstan, Kazakstan, Mongolia, and Russia.
+        </p>
 
       </div>
     );
