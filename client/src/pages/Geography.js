@@ -34,6 +34,12 @@ export default class Geography extends Component {
           Ocean reaching the Gobi territory. 
         </p>
 
+        <p>
+          China has many rivers and lakes. The Yangtze River is the longest river in Asia, and the third-longest in the world, behind the Nile 
+          River in Africa, and the Amazon River in South America. The Yellow River is another one of the longest rivers in China and in the world. 
+          This river is yellow due to the amount of ailt it carries from the desert regions in the northwest. 
+        </p>
+
       </div>
     );
   }
