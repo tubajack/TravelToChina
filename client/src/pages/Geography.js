@@ -42,7 +42,7 @@ export default class Geography extends Component {
 
         <img
           id="Geography of China"
-          src="../images/GeographyOfChina.jpg"
+          src="../images/GeographyofChina.jpg"
           alt="Geography of China"
           width="100%"
           height="100%"
@@ -55,6 +55,11 @@ export default class Geography extends Component {
           width="100%"
           height="100%"
         /> 
+
+        <p>
+          In China, there are 23 provinces, 4 municipalities (Beijing, Tianjin, Shanghai, Chongqing), 5 autonomous regions 
+          (Guangxi, Inner Mongolia, Tibet, Ningxia, Xinjiang) and 2 administrative regions (Hong Kong, Macau). 
+        </p>
 
       </div>
     );
