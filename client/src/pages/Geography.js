@@ -42,7 +42,7 @@ export default class Geography extends Component {
 
         <img
           id="Geography of China"
-          src="../images/GeographyOfChina.jpg"
+          src="../images/GeographyofChina.jpg"
           alt="Geography of China"
           width="100%"
           height="100%"
