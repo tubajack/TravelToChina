@@ -56,6 +56,11 @@ export default class Geography extends Component {
           height="100%"
         /> 
 
+        <p>
+          In China, there are 23 provinces, 4 municipalities (Beijing, Tianjin, Shanghai, Chongqing), 5 autonomous regions 
+          (Guangxi, Inner Mongolia, Tibet, Ningxia, Xinjiang) and 2 administrative regions (Hong Kong, Macau). 
+        </p>
+
       </div>
     );
   }
