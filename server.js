@@ -10,6 +10,6 @@ app.use(express.json());
 if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
 }
-  app.listen(PORT, () => {
-    console.log(`🌎  ==> API Server now listening on PORT ${PORT}!`);
-  });
+app.listen(PORT, () => {
+  console.log(`🌎  ==> API Server now listening on PORT ${PORT}!`);
+});
