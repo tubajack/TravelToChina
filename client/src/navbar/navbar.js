@@ -13,6 +13,9 @@ function Navbar() {
 
         <Dropdown.Menu>
           <Dropdown.Item>
+            <Link to="/">Main Page</Link>
+          </Dropdown.Item>
+          <Dropdown.Item>
             <Link to="/history">History of China</Link>
           </Dropdown.Item>
           <Dropdown.Item>
