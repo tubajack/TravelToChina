@@ -77,6 +77,13 @@ export default class TravelToChina extends Component {
           </p>
         </p>
 
+        <h3>Bargain for everything</h3>
+
+        <p>
+          Everything can be bargained for in China, even groceries. At most places, you can expect to pay significantly less than 
+          the starting price. 
+        </p>
+
              
       </div>
     );
