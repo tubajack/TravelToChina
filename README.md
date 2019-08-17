@@ -21,3 +21,9 @@ Right now, the travel guide is going to give prospective travelers some basic in
 Front-end: React.JS, CSS, HTML
 Backend: Express.JS
 Database: Will be using sequelize for the database. 
+
+## Future improvements to the project
+
+Right now, this project only has the front-end components. I am going to be working on the back-end and the database within the next couple of weeks.   
+Eventually, I am hoping that someone can use this website for booking a trip to China. That is what will be under the Travel To China page.   
+Hopefully, I can implement these travel guides for other countries like India, Japan, etc. 
