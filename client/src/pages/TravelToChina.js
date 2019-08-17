@@ -46,6 +46,21 @@ export default class TravelToChina extends Component {
             sites, you are SOL. 
         </p>
 
+        <h3>It is good to know basic Mandarin</h3>
+
+        <p>
+          It is not required to know Mandarin, but it is very helpful. If you plan on visiting cities like Beijing and Shanghai, then it
+          would be fine to speak English. The younger generations are able to speak basic English and can help out when necessary. However, 
+          if you are planning to visit cities like Yangshuo and Zhangjiajie, having a basic grasp of Mandarin is critical. People will be 
+          appreciative if you make an effort to speak the language. 
+        </p>
+
+        <p>
+          A lot of times, when going to restaurants in China, you may get a menu with only Chinese characters. For those who don't speak
+          Chinese, this could lead to one randomly selecting a dish and hoping for the best. It is common for all kinds of animal anatomy
+          to make it on your plate. If you are in a bigger city like Beijing or Shanghai, menus in English or with pictures are common. 
+        </p>
+
              
       </div>
     );
