@@ -61,6 +61,22 @@ export default class TravelToChina extends Component {
           to make it on your plate. If you are in a bigger city like Beijing or Shanghai, menus in English or with pictures are common. 
         </p>
 
+        <h3>Bring your own Napkins and Toilet Paper</h3>
+
+        <p>
+          Most restaurants in China dont have napkins. Make sure to bring your own supply with you.  
+        </p>
+
+        <p>
+          Rarely, bathrooms in China are stocked with toilet paper. 
+          <p>
+            Also, be prepared to use squat potties.
+          </p>
+          <p>
+            In addition, it would not be a bad idea to carry around hand sanitizer. 
+          </p>
+        </p>
+
              
       </div>
     );
