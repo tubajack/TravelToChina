@@ -36,7 +36,14 @@ export default class TravelToChina extends Component {
         <h3>Make sure to have a VPN before traveling to China</h3>
 
         <p>
-          
+          A VPN is known as a Virtual Private Network. It will disguise the computer's IP (Internet Protocol) address, so that it will
+          look like you are connected from the US or Australia, even though you are in China. The Great Firewall of China will block access
+          to common sites like Google, Facebook, Twitter, etc. 
+        </p>
+
+        <p>
+            Make sure to purchase the VPN before you are in China. If you travel to China without a VPN, and want to access Google, or other 
+            sites, you are SOL. 
         </p>
 
              
