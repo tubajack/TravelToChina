@@ -14,4 +14,10 @@ Many of the people that I have met from China are very friendly and were very op
 
 ## Information contained in the travel guide
 
-Right now, the travel guide is going to give prospective travelers some basic information about China. Anyone who reads this guide will learn different aspects including a basic history of the country, culture, economy, technological advancements made, political structure of the country, geography. In a later version, I will include information about planning a vacation to China.  
+Right now, the travel guide is going to give prospective travelers some basic information about China. Anyone who reads this guide will learn different aspects including a basic history of the country, culture, economy, technological advancements made, political structure of the country, geography. In a later version, I will include information about planning a vacation to China. 
+
+## Technologies used in the travel guide
+
+Front-end: React.JS, CSS, HTML
+Backend: Express.JS
+Database: Will be using sequelize for the database. 
