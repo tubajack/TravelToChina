@@ -18,9 +18,10 @@ Right now, the travel guide is going to give prospective travelers some basic in
 
 ## Technologies used in the travel guide
 
-Front-end: React.JS, CSS, HTML
-Backend: Express.JS
-Database: Will be using sequelize for the database. 
+Front-end: React.JS, CSS, HTML  
+Backend: Express.JS  
+Database: Sequelize  
+New Technology: D3.JS  
 
 ## Future improvements to the project
 
